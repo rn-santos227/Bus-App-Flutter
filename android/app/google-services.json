@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1074627134817",
+    "firebase_url": "https://bus-it-1535768045997.firebaseio.com",
+    "project_id": "bus-it-1535768045997",
+    "storage_bucket": "bus-it-1535768045997.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074627134817:android:bc563b728255bfc1827120",
+        "android_client_info": {
+          "package_name": "com.laquest.bus_booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074627134817-h7skeokip1ev51qdvqju1bv8jfhoq45i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNtmydVSBFJbunbFXbM7H90KRedFbuZRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074627134817-h7skeokip1ev51qdvqju1bv8jfhoq45i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

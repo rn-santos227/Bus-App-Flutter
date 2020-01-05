@@ -1,0 +1,36 @@
+name: bus_booking
+description: A bus booking application made from Flutter.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  get_it: ^2.0.1
+  flutter_bloc: ^3.0.0
+  equatable: ^0.4.0
+  dartz: ^0.8.6
+  connectivity: ^0.4.3+7
+  http: ^0.12.0+2
+  shared_preferences: ^0.5.3+4
+  firebase_auth: ^0.15.3
+  cloud_firestore: ^0.13.0+1
+  provider: ^4.0.0
+  rxdart: ^0.23.1
+  flutter_spinkit: ^4.1.1+1
+  google_sign_in: ^4.1.1
+  table_calendar: ^2.2.2
+    
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^4.1.0
+
+flutter:
+  assets:
+    - assets/images/icons/
+  uses-material-design: true
